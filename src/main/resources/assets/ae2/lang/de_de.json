@@ -177,7 +177,6 @@
   "gui.ae2.ChargedQuartz": "Geladener Certusquarz entsteht durch Einfügen eines Ungeladenen Certusquarzkristalls in ein Ladegerät, das Energie erhält.",
   "gui.ae2.Chest": "ME-Truhe",
   "gui.ae2.Clean": "Löschen",
-  "gui.ae2.Compass": "Der Meteoritenkompass wird hergestellt, indem man einen (normalen) Kompass in das Ladegerät einlegt und ihn auflädt.",
   "gui.ae2.CompatibleUpgrade": "%s (%s)",
   "gui.ae2.CompatibleUpgrades": "Kompatible Upgrades:",
   "gui.ae2.Condenser": "Materiekondensator",
